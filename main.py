@@ -298,4 +298,5 @@ if __name__ == "__main__":
 
     console.rule("[bold red]done!", align='center')
 
+# 今天的喜茶很好喝！
 
